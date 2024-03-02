@@ -6,11 +6,11 @@ Joystick_ Joystick;
 #define CLUTCH A0
 #define BREAK  A1
 #define GAS    A2
-#define SAMPLE_SIZE 15
+#define SAMPLE_SIZE 10
 
-Ewma clutchFilter(0.5);
-Ewma breakFilter(0.5);
-Ewma gasFilter(0.5);
+Ewma clutchFilter(0.9);
+Ewma breakFilter(0.9);
+Ewma gasFilter(0.9);
 
 
 int readAnalogInput(int pin, int delayValue=1) {
@@ -32,5 +32,5 @@ void loop(){
   Joystick.setRxAxis(int(breakFilter.filter(breakValue)));
   Joystick.setThrottle(int(gasFilter.filter(gasValue)));
 
-  delay(3);
+  delay(1);
 }
