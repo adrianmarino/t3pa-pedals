@@ -97,6 +97,6 @@ You could change `T3PA Pedals` setgins via `serial terminal`.
     ```
 
 
-## Change seetings via `SerialPort` python class
+## Change settings via `SerialPort` python class
 
 See [example notebook](https://github.com/adrianmarino/t3pa-pedals/blob/master/notebook.ipynb)
