@@ -91,6 +91,6 @@ You can config pedals via serial terminal.
     ```
 
 
-## Set settings using `SerialPort` python class
+## Make seetings via `SerialPort` python class
 
 See [example notebook](https://github.com/adrianmarino/t3pa-pedals/blob/master/notebook.ipynb)
