@@ -1,9 +1,10 @@
-# USB T3PA Pedals Firmware
+# T3PA Pedals Firmware
 
-Arduino Firmware required to convert `T3PA Pedals` to `USB`. Allows use `T3PA Pedals` a a regular 3 axis joystick.
+Firmware required to make a USB a `T3PA Pedals`. 
+
 
 <p align="center">
-  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="600" />
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="500" />
 </p>
 
 
@@ -71,3 +72,8 @@ You can config pedals via serial terminal.
     13:22:58.294 ->   "throttle_smoothing_factor": 0.95
     13:22:58.294 -> }
     ```
+
+
+## Set settings using `SerialPort` python class
+
+See [example notebook](https://github.com/adrianmarino/t3pa-pedals/blob/master/notebook.ipynb)
