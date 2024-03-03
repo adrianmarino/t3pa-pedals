@@ -36,7 +36,7 @@ Android firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T
 ## Circuit
 
 <p align="center">
-  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/Pedal-Circuit.png?raw=true"  height="400" />
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/Pedal-Circuit.png?raw=true"  height="500" />
 </p>
 
 
