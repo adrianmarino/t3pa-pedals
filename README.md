@@ -1,6 +1,6 @@
 # T3PA Pedals Firmware
 
-Firmware required to make a USB a `T3PA Pedals`. 
+Android firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T3PA Pedals` with other wheel bases as a regular 3 axis joystick. 
 
 
 <p align="center">
