@@ -22,14 +22,14 @@ Firmware required to make a USB a `T3PA Pedals`.
 
 
 <p align="center">
-  <img src="https://github.com/adrianmarino/wheel-joystick/blob/master/images/arduino-pro-micro-board.png?raw=true"  height="330" />
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/arduino-pro-micro-board.png?raw=true"  height="330" />
 </p>
 
 * `3` x 0.2 µF capasitors.
 
 
 <p align="center">
-  <img src="https://github.com/adrianmarino/wheel-joystick/blob/master/images/capasitor.webp?raw=true"  height="200" />
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/capasitor.webp?raw=true"  height="200" />
 </p>
 
 
