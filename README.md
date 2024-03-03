@@ -1,6 +1,6 @@
 # Thrustmaster T3PA Pedals Firmware
 
-Android firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T3PA Pedals` with other wheel bases as a regular 3 axis joystick.
+Arduino firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T3PA Pedals` with other wheel bases as a regular 3 axis joystick.
 
 
 <p align="center">
