@@ -25,7 +25,7 @@ Android firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T
   <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/arduino-pro-micro-board.png?raw=true"  height="330" />
 </p>
 
-* `3` x 0.2 µF capasitors.
+* `3` x 0.2 µF capasitors. Used to remove electric noise.
 
 
 <p align="center">
