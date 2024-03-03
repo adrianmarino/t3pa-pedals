@@ -3,6 +3,11 @@
 Firmware required to make a USB a `T3PA Pedals`. 
 
 
+<p align="center">
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="250" />
+</p>
+
+
 ## Dependencies
 
 - [Joystick](https://github.com/gmarty2000-ARDUINO/arduino-JOYSTICK)
