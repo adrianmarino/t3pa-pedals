@@ -1,10 +1,10 @@
 # T3PA Pedals Firmware
 
-Firmware required to make a USB a `T3PA Pedals`. 
+Firmware required to convert `T3PA Pedals` to `USB`.  
 
 
 <p align="center">
-  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="400" />
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="500" />
 </p>
 
 
