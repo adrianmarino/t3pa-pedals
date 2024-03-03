@@ -62,9 +62,9 @@ You can config pedals via serial terminal.
     Output:
     
     ```bash
-    13:22:58.262 -> Load json settings
-    13:22:58.262 -> Apply settings
-    13:22:58.262 -> Set save settings
+    13:22:58.262 -> Loading json settings...
+    13:22:58.262 -> Appling settings...
+    13:22:58.262 -> Saving settings...
     13:22:58.294 -> Settings:
     13:22:58.294 -> {
     13:22:58.294 ->   "clutch_smoothing_factor": 0.95,
