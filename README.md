@@ -8,12 +8,12 @@ Arduino firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T
 </p>
 
 
-
 ## Requisites
 
 * [Arduino IDE](https://www.arduino.cc/en/software)
 * `jupyterlab` (Optional)
 * `pysearial` (Optional)
+* [anaconda](https://www.anaconda.com/products/individual) / [miniconda](https://docs.conda.io/en/latest/miniconda.html) / [mamba](https://github.com/mamba-org/mamba)
 
 ## Firmware dependencies
 
