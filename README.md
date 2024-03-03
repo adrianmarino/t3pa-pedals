@@ -4,7 +4,7 @@ Arduino firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T
 Is important note that **this firmware allows to convert any pedals to `USB` or build your own pedals and use it through `USB` port as a regular 3 axis joystick**. Both the circuit and firmware are agnostic, could be used for any pedals project.
 
 <p align="center">
-  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="600" />
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="630" />
 </p>
 
 
