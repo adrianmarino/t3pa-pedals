@@ -1,6 +1,6 @@
 # T3PA Pedal Firmware
 
-Firmware required to make a USB a T3PA Pedal. 
+Firmware required to make a USB a `T3PA Pedals`. 
 
 
 ## Dependencies
