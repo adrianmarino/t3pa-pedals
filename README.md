@@ -52,7 +52,7 @@ You can config pedals via serial terminal.
     ```
 
 
-4. Change settings sending a json:
+4. Change settings sending a `json` command:
 
     Command:
     ```json
