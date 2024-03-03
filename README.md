@@ -1,6 +1,6 @@
 # T3PA Pedals Firmware
 
-Android firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T3PA Pedals` with other wheel bases as a regular 3 axis joystick. 
+Android firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T3PA Pedals` with other wheel bases as a regular 3 axis joystick.
 
 
 <p align="center">
@@ -44,7 +44,7 @@ Android firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T
 
 You could change `T3PA Pedals` settings via `serial terminal`.
 
-1. Open a `serial terminal` and make a conection with `COM4`(windows) or `/dev/ttyACM0`(linux) ports.
+1. Open a `serial terminal` and make a conection with `COM4`(windows) or `/dev/ttyACM0`(linux) ports at `9600` baud.
 
 2. see help with `help` command:
 
