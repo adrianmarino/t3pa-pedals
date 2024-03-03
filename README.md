@@ -16,7 +16,7 @@ You can config pedals via serial terminal.
 
 2. Show help with `help` command:
 
-```
+```bash
 13:19:54.148 -> -----------------------------------------------------------
 13:19:54.148 ->  T3PA - Pedals
 13:19:54.148 -> -----------------------------------------------------------
@@ -33,7 +33,7 @@ You can config pedals via serial terminal.
 
 3. See current config with `show` command:
 
-```
+```bash
 13:19:50.365 -> Settings:
 13:19:50.365 -> {
 13:19:50.365 ->   "clutch_smoothing_factor": 0.99,
@@ -46,13 +46,13 @@ You can config pedals via serial terminal.
 4. Change settings sending a json:
 
 Command:
-```
+```json
 {"clutch_smoothing_factor": 0.95, "break_smoothing_factor": 0.95, "throttle_smoothing_factor": 0.95}
 ```
 
 Output:
 
-```
+```bash
 13:22:58.262 -> Load json settings
 13:22:58.262 -> Apply settings
 13:22:58.262 -> Set save settings
