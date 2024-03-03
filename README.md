@@ -109,7 +109,7 @@ You could change `T3PA Pedals` settings via `serial terminal`.
 1. Create python env and install required libraries.
 
     ```bash
-    conda create-n t3pa
+    conda create -n t3pa
     conda install pyserial
     conda install jupyterlab
     ```
