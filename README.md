@@ -106,6 +106,10 @@ You could change `T3PA Pedals` settings via `serial terminal`.
 
 ## Change settings via `SerialPort` python class
 
+### See [example notebook](https://github.com/adrianmarino/t3pa-pedals/blob/master/notebook.ipynb)
+
+### Setup python env an run notebook
+
 1. Create python env and install required libraries.
 
     ```bash
@@ -128,4 +132,3 @@ You could change `T3PA Pedals` settings via `serial terminal`.
 
 4. Open and run `notebook.ipynb`
 
-    See [example notebook](https://github.com/adrianmarino/t3pa-pedals/blob/master/notebook.ipynb)
