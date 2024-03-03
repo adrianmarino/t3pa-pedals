@@ -4,7 +4,7 @@ Firmware required to convert `T3PA Pedals` to `USB`.
 
 
 <p align="center">
-  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="550" />
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="600" />
 </p>
 
 
