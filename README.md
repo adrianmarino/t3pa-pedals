@@ -8,6 +8,13 @@ Arduino firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T
 </p>
 
 
+
+## Requisites
+
+* [Arduino IDE](https://www.arduino.cc/en/software)
+* `jupyterlab` (Optional)
+* `pysearial` (Optional)
+
 ## Dependencies
 
 - [Joystick](https://github.com/gmarty2000-ARDUINO/arduino-JOYSTICK)
