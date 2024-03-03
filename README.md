@@ -13,7 +13,7 @@ Arduino firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T
 * [Arduino IDE](https://www.arduino.cc/en/software)
 * `jupyterlab` (Optional)
 * `pysearial` (Optional)
-* [anaconda](https://www.anaconda.com/products/individual) / [miniconda](https://docs.conda.io/en/latest/miniconda.html) / [mamba](https://github.com/mamba-org/mamba)
+* [anaconda](https://www.anaconda.com/products/individual) / [miniconda](https://docs.conda.io/en/latest/miniconda.html) / [mamba](https://github.com/mamba-org/mamba) (Optional)
 
 ## Firmware dependencies
 
@@ -106,4 +106,26 @@ You could change `T3PA Pedals` settings via `serial terminal`.
 
 ## Change settings via `SerialPort` python class
 
-See [example notebook](https://github.com/adrianmarino/t3pa-pedals/blob/master/notebook.ipynb)
+1. Create python env and install required libraries.
+
+    ```bash
+    conda create-n t3pa
+    conda install pyserial
+    conda install jupyterlab
+    ```
+
+2. Enable python env.
+
+    ```bash
+    conda activate t3pa
+    ```
+
+3. Open jupyterlab
+
+    ```bash
+    jupyter lab
+    ```
+
+4. Open and run `notebook.ipynb`
+
+    See [example notebook](https://github.com/adrianmarino/t3pa-pedals/blob/master/notebook.ipynb)
