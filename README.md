@@ -33,6 +33,13 @@ Android firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T
 </p>
 
 
+## Circuit
+
+<p align="center">
+  <img src="https://github.com/adrianmarino/wheel-joystick/blob/master/images/Pedal-Circuit.png?raw=true"  height="400" />
+</p>
+
+
 ## Settings
 
 You could change `T3PA Pedals` setgins via `serial terminal`.
