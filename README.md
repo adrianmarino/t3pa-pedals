@@ -4,8 +4,12 @@ Firmware required to make a USB a `T3PA Pedals`.
 
 
 ## Dependencies
+
 - [Joystick](https://github.com/gmarty2000-ARDUINO/arduino-JOYSTICK)
 - [EWMA](https://github.com/jonnieZG/EWMA)
+- [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
+- [EPROM](https://docs.arduino.cc/learn/built-in-libraries/eeprom/)
+
 
 ## Settings
 
