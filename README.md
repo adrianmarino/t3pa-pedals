@@ -4,7 +4,7 @@ Firmware required to make a USB a `T3PA Pedals`.
 
 
 <p align="center">
-  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="250" />
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="400" />
 </p>
 
 
