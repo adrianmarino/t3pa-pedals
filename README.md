@@ -42,7 +42,7 @@ Android firmware that allows convert `T3PA Pedals` to `USB`. It allows to use `T
 
 ## Settings
 
-You could change `T3PA Pedals` setgins via `serial terminal`.
+You could change `T3PA Pedals` settings via `serial terminal`.
 
 1. Open a `serial terminal` and make a conection with `COM4`(windows) or `/dev/ttyACM0`(linux) ports.
 
