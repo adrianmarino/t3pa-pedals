@@ -16,6 +16,23 @@ Firmware required to make a USB a `T3PA Pedals`.
 - [EPROM](https://docs.arduino.cc/learn/built-in-libraries/eeprom/)
 
 
+## Hardware
+
+* [Arduino Leonardo compatible board with **Atmega32u4** chipset](https://protosupplies.com/product/pro-micro-5v-16mhz/). **Atmega32u4** supports HID interface via USB. Arduino pro micro is an excellent selection because is a very tiny board.
+
+
+<p align="center">
+  <img src="https://github.com/adrianmarino/wheel-joystick/blob/master/images/arduino-pro-micro-board.png?raw=true"  height="330" />
+</p>
+
+** 3 x 0.2 µF capasitors.
+
+
+<p align="center">
+  <img src="https://github.com/adrianmarino/wheel-joystick/blob/master/images/capasitor.webp?raw=true"  height="200" />
+</p>
+
+
 ## Settings
 
 You can config pedals via serial terminal.
