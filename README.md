@@ -1,7 +1,6 @@
-# T3PA Pedals Firmware
+# USB T3PA Pedals Firmware
 
-Firmware required to convert `T3PA Pedals` to `USB`.  
-
+Arduino Firmware required to convert `T3PA Pedals` to `USB`. Alows use `T3PA Pedals` a a refular 3 axis joystick.
 
 <p align="center">
   <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/T3PA-Pedals.jpg?raw=true"  height="600" />
