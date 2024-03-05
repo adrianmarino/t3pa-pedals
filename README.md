@@ -51,8 +51,7 @@ Is important note that **this firmware allows to convert any pedals to `USB` or 
 
 You could change `T3PA Pedals` settings via `serial terminal`.
 
-1. Open a `serial terminal` and make a conection with `COM4`(windows) or `/dev/ttyACM0`(linux) ports at `9600` baud.
-
+1. Open a `serial terminal` with [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) and make a conection with `COM`(windows) or `/dev/ttyACM0`(linux) ports at `9600` baud.
 
 2. Press all pedals at same time to enter to **config mode**. You should see the following message on the serial terminal:
 
