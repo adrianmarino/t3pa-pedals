@@ -53,6 +53,11 @@ You could change `T3PA Pedals` settings via `serial terminal`.
 
 1. Open a `serial terminal` with [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) and make a conection with `COM`(windows) or `/dev/ttyACM0`(linux) ports at `9600` baud.
 
+
+<p align="center">
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/putty.png?raw=true"  height="500" />
+</p>
+
 2. Press all pedals at same time to enter to **config mode**. You should see the following message on the serial terminal:
 
     ```bash
