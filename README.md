@@ -74,7 +74,7 @@ You could change `T3PA Pedals` settings via `serial terminal`.
     13:19:54.148 -> 
     13:19:54.148 -> 1. Use 'show' command to see current settings.
     13:19:54.148 -> 2. Send a json to update settings.
-    13:19:54.148 -> 3. Use 'off' command to finish config mode..
+    13:19:54.148 -> 3. Use 'off' command to finish config mode.
     13:19:54.148 -> -----------------------------------------------------------
     ```
 
