@@ -116,7 +116,7 @@ You could change `T3PA Pedals` settings via `serial terminal`.
     ```
 
 
-**Important**: The firmware apply an **[Exponentially Weighted Moving Average (EWMA)](https://www.youtube.com/watch?v=XV1f_srZg_E)** to each pedal. EWMA use a **Smoothing Factor**. It factor control de average level over each pedal signal. Higher the value, less smoothing (higher the latest reading impact). See [EWMA](https://github.com/jonnieZG/EWMA) for more details.
+**Important**: The firmware apply an **[Exponentially Weighted Moving Average (EWMA)](https://www.youtube.com/watch?v=XV1f_srZg_E)** to each pedal. `EWMA` use a **Smoothing Factor**. It factor control de average level over each pedal signal. Higher the value, less smoothing (higher the latest reading impact). See [EWMA](https://github.com/jonnieZG/EWMA) for more details. `EWMA` primarily is used as a method to eliminate electrical noise on analog inputs.
 
 
 5. Finish config mode with `off` command:
