@@ -110,6 +110,7 @@ void updateConfig() {
         Serial.println();
         Serial.println("1. Use 'show' command to see current settings.");
         Serial.println("2. Send a json to update settings.");
+        Serial.println("3. Use 'off' command to finish config mode.");
         Serial.println("-----------------------------------------------------------");
       } else if (value.equals("off")) {
         configMode = false;

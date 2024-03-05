@@ -53,7 +53,14 @@ You could change `T3PA Pedals` settings via `serial terminal`.
 
 1. Open a `serial terminal` and make a conection with `COM4`(windows) or `/dev/ttyACM0`(linux) ports at `9600` baud.
 
-2. see help with `help` command:
+
+2. Press all pedals at same time to enter to **config mode**. You should see the following message on the serial terminal:
+
+    ```bash
+    Config mode: ON
+    ```
+
+2. See help with `help` command:
 
     ```bash
     13:19:54.148 -> -----------------------------------------------------------
@@ -67,6 +74,7 @@ You could change `T3PA Pedals` settings via `serial terminal`.
     13:19:54.148 -> 
     13:19:54.148 -> 1. Use 'show' command to see current settings.
     13:19:54.148 -> 2. Send a json to update settings.
+    13:19:54.148 -> 3. Use 'off' command to finish config mode..
     13:19:54.148 -> -----------------------------------------------------------
     ```
 
@@ -105,6 +113,15 @@ You could change `T3PA Pedals` settings via `serial terminal`.
 
 
 **Important**: The firmware apply an **[Exponentially Weighted Moving Average (EWMA)](https://www.youtube.com/watch?v=XV1f_srZg_E)** to each pedal. EWMA use a **Smoothing Factor**. It factor control de average level over each pedal signal. Higher the value, less smoothing (higher the latest reading impact). See [EWMA](https://github.com/jonnieZG/EWMA) for more details.
+
+
+5. Finish config mode with `off` command:
+
+    ```bash
+    Config mode: OFF
+    ```
+
+**Important**: `Config mode`` allows minimize pedal input lag, because there is no waiting to to receive serial commands. It increase execution time on main program loop.
 
 
 ## Change settings via `SerialPort` python class
