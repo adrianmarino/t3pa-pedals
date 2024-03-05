@@ -55,7 +55,7 @@ You could change `T3PA Pedals` settings via `serial terminal`.
 
 
 <p align="center">
-  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/putty.png?raw=true"  height="550" />
+  <img src="https://github.com/adrianmarino/t3pa-pedals/blob/master/images/putty.png?raw=true"  height="600" />
 </p>
 
 2. Press all pedals at same time to enter to **config mode**. You should see the following message on the serial terminal:
