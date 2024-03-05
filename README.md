@@ -104,6 +104,9 @@ You could change `T3PA Pedals` settings via `serial terminal`.
     ```
 
 
+**Important**: The firmware apply an **[Exponentially Weighted Moving Average (EWMA)](https://www.youtube.com/watch?v=XV1f_srZg_E)** to each pedal. EWMA use a **Smoothing Factor**. It factor control de average level over each pedal signal. Higher the value, less smoothing (higher the latest reading impact). See [EWMA](https://github.com/jonnieZG/EWMA) for more details.
+
+
 ## Change settings via `SerialPort` python class
 
 ### See [example notebook](https://github.com/adrianmarino/t3pa-pedals/blob/master/notebook.ipynb)
