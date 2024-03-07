@@ -124,8 +124,7 @@ You could change `T3PA Pedals` settings via `serial terminal`.
     ```bash
     Config mode: OFF
     ```
-
-**Important**: `Config mode` allows minimize pedal input lag, because there is no waiting to receive serial commands. It increase execution time on main program loop.
+**Important:** The `Config mode` minimizes pedal input lag by eliminating the need to wait for serial commands. However, this mode does increase the execution time in the main program loop.
 
 
 ## Change settings via `SerialPort` python class
